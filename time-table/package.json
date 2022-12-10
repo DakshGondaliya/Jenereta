@@ -20,7 +20,7 @@
     "body-parser": "^1.18.3",
     "concurrently": "^4.0.1",
     "expect": "^23.6.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "gravatar": "^1.6.0",
     "jsonwebtoken": "^8.3.0",
